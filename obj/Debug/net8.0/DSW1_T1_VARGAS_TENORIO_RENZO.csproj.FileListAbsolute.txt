@@ -112,3 +112,4 @@ C:\Users\Asus\Desarrollo de ser web1\DSW1_T1_VARGAS_TENORIO_RENZO\obj\Debug\net8
 C:\Users\Asus\Desarrollo de ser web1\DSW1_T1_VARGAS_TENORIO_RENZO\obj\Debug\net8.0\DSW1_T1_VARGAS_TENORIO_RENZO.pdb
 C:\Users\Asus\Desarrollo de ser web1\DSW1_T1_VARGAS_TENORIO_RENZO\obj\Debug\net8.0\DSW1_T1_VARGAS_TENORIO_RENZO.genruntimeconfig.cache
 C:\Users\Asus\Desarrollo de ser web1\DSW1_T1_VARGAS_TENORIO_RENZO\obj\Debug\net8.0\ref\DSW1_T1_VARGAS_TENORIO_RENZO.dll
+C:\Users\Asus\Desarrollo de ser web1\DSW1_T1_VARGAS_TENORIO_RENZO\obj\Debug\net8.0\DSW1_T1_VARGAS_TENORIO_RENZO.sourcelink.json

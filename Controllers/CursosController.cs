@@ -15,21 +15,21 @@ namespace DSW1_T1_VARGAS_TENORIO_RENZO.Controllers
             _repo = repo;
         }
 
-        // GET: api/cursos
+        
         [HttpGet]
         public ActionResult<IEnumerable<Curso>> Listar()
         {
             return Ok(_repo.ListarTodos());
         }
 
-        // GET: api/cursos/nivel/3
+        
         [HttpGet("nivel/{nivelId}")]
         public ActionResult<IEnumerable<Curso>> ListarPorNivel(int nivelId)
         {
             return Ok(_repo.ListarPorNivel(nivelId));
         }
 
-        // POST: api/cursos
+        
         [HttpPost]
         public ActionResult Crear([FromBody] Curso curso)
         {
@@ -37,7 +37,7 @@ namespace DSW1_T1_VARGAS_TENORIO_RENZO.Controllers
             return CreatedAtAction(nameof(Listar), new { id = creado.CursoId }, creado);
         }
 
-        // PUT: api/cursos/4
+        
         [HttpPut("{id}")]
         public ActionResult Actualizar(int id, [FromBody] Curso curso)
         {
