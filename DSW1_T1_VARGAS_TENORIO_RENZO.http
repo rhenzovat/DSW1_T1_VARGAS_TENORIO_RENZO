@@ -1,0 +1,6 @@
+@DSW1_T1_VARGAS_TENORIO_RENZO_HostAddress = http://localhost:5012
+
+GET {{DSW1_T1_VARGAS_TENORIO_RENZO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
